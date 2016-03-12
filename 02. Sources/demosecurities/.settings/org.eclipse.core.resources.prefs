@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/org/firestorm/demosecurities/database/UserDAO.java=UTF-8
+encoding//src/org/firestorm/demosecurities/servlet/Authentication.java=UTF-8
+encoding//src/org/firestorm/demosecurities/servlet/SignatureServlet.java=UTF-8

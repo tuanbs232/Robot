@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+#modal-content {
+	border-radius: 3px;
+}
+
+.message-modal {
+	width: 425px !important;
+}
+
+.modal-body {
+	/* 	background-color: #f5f5f5; */
+	
+}
+
+.modal-footer {
+	/* 	background-color: #f5f5f5; */
+	
+}
+
+input[type="text"]{
+	border-radius: 1px;
+}
+input[type="password"]{
+	border-radius: 1px;
+}
+.btn{
+	border-radius: 1px !important;
+}
